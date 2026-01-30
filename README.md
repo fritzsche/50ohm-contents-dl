@@ -48,16 +48,15 @@ Tabellen werden mit senkrechten Strichen "gemalt". Der senkrechte Strich ist auf
 
 ## Besondere Abschnitte
 
-Randbemerkung: `<margin>...</margin>`
-Achtung: `<attention>...</attention>`
-Vertiefung: `<indepth>...</indepth>`
-Tipp: `<tip>...</tip>`
-Randbemerkung im Web, aber nicht in LaTeX, dort wird es Fließtext: `<webmargin>...</webmargin>`
-
-Tipp als Randbemerkung im Web, aber nicht in LaTeX, dort wird es Fließtext: `<webtip>...</webtip>`
-Vertiefung als Randbemerkung im Web, in LaTeX geht es über die komplette Seitenbreite: `<webindepth>...</webindepth>`
-Nur im Web, nicht im LaTeX: `<webonly>...</webonly>`
-Nur im LaTeX, nicht im Web: `<latexonly>...</latexonly>`
+* Randbemerkung: `<margin>...</margin>`
+* Achtung: `<attention>...</attention>`
+* Vertiefung: `<indepth>...</indepth>`
+* Tipp: `<tip>...</tip>`
+* Randbemerkung im Web, aber nicht in LaTeX, dort wird es Fließtext: `<webmargin>...</webmargin>`
+* Tipp als Randbemerkung im Web, aber nicht in LaTeX, dort wird es Fließtext: `<webtip>...</webtip>`
+* Vertiefung als Randbemerkung im Web, in LaTeX geht es über die komplette Seitenbreite: `<webindepth>...</webindepth>`
+* Nur im Web, nicht im LaTeX: `<webonly>...</webonly>`
+* Nur im LaTeX, nicht im Web: `<latexonly>...</latexonly>`
 
 ## Aufzählungen
 
@@ -140,7 +139,7 @@ Hyperlinks sollten immer über den 50ohm.de-URL-Shortener abgebildet werden.
 
 Die Inhalte stehen unter der [CC BY 4.0 Lizenz](https://creativecommons.org/licenses/by/4.0/deed.de)
 
-== Hinweis zur Namensnennung (CC BY)
+### Hinweis zur Namensnennung (CC BY)
 
 Bei der Verwendung der Materialien auf 50ohm.de müssen angemessene Urheber- und Rechteangaben gemacht sowie ein Link zur verwendeten Lizenz beigefügt werden. Zudem ist anzugeben, ob Änderungen an den Materialien vorgenommen wurden.
 
