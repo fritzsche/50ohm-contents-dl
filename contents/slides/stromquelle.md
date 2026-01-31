@@ -1,0 +1,19 @@
+<left>
+[photo:182:a_vsource_schematic:Ersatzschaltbild Stromquelle $R_i$ hochohmig]
+</left>
+<right>
+* Liefert konstanten Strom
+* Unabhängig von der angeschlossenen Last
+* Theorie: Unendlich großer Innenwiderstand
+* Praxis: Sehr hoher Innenwiderstand
+</right>
+
+---
+### Anwendung einer Stromquelle
+
+* Labornetzgeräte
+* Ladetechnik von Akkus
+
+<note>
+Labornetzgeräte werden im nächsten Abnschitt weiter behandelt
+</note>

@@ -1,0 +1,33 @@
+### Netzgerät
+
+* Die für uns Funkamateuere wichtigste Spannungsquelle ist, neben Batterien, das Netzgerät. Es wird über das Stromnetz mit 230 Volt Wechselspannung versorgt und erzeut eine Gleichspannung von 13,8 Volt. Damit lassen sich Funkgeräte und Zubehör versorgen.
+* Wichtig ist, dass die Ausggangsspannung bei Last konstant bleibt.
+
+---
+
+[question:ED301]
+
+---
+
+### Elektrische Sicherheit
+
+Bei Netzgeräten, besonders mit einem Metallgehäuse, ist ein normgerechter Anschluss an das Stromnetz wichtig. Der Schutzleiter (grün/gelb) hat dabei die Aufgabe im Fehlerfall die Spannung zur "Erde" abzuleiten und damit die Haussicherung auszulösen, damit keine gefährliche Spannung am Metallgehäuse anliegt. Bei einer 3-adrigen Leitung sind die Adernkennfarben wie folgt festgelegt:
+
+---
+### Aderfarben
+
+<left>
+* Außenleiter (L) &rarr; braun
+* Neutralleiter (N) &rarr; blau
+* Schutzleiter (PE) &rarr; grün/gelb
+</left>
+<right>
+[picture:791:e_NYM_Aderfarben:Aderfarben einer 3-adrigen Leitung]
+</right>
+<note>
+Nicht drauf verlassen, sondern messen!
+</note>
+
+---
+
+[question:EK205]
