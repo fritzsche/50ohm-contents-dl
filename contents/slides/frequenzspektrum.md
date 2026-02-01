@@ -1,4 +1,4 @@
-[photo:94:n_frequenzspektrum:Spektrum der elektromagnetischen Wellen]
+[picture:471:n_frequenzspektrum:Spektrum der elektromagnetischen Wellen]
 
 <note>
 * Funkwellen nutzen nur ein Teil dieses Spektrums
