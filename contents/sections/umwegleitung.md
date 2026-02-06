@@ -10,7 +10,7 @@ Eine solche Phasenverschiebung lässt sich mittels einer $\lambda / 2$-Umwegleit
 
 Der Schirm des Koxialkabels weist dann Erdpotential auf und es entstehen keine Mantelwellen.
 
-Aufpassen muss man jedoch mit den Impedanzen. Obwohl die Umwegeleitung nicht direkt die Impedanz transformiert, so ergibt der Anschluss einer Antenne auf diese Weise dennoch eine Transfomation der Impedanz. Die Antenne muss einen vier mal höhere Impedanz als das Koaxialkabel aufweisen, damit Anpassung vorliegt. Ursache hierfür, ist dass jeder Anschlusspunkt der Antenne gegenüber Erde nur den halben Widerstand aufweist, beide Anschlusspunkte jedoch parallel, d.h. beide am Innenleiter, angeschlossen werden.
+Aufpassen muss man jedoch mit den Impedanzen. Obwohl die Umwegeleitung nicht direkt die Impedanz transformiert, so ergibt der Anschluss einer Antenne auf diese Weise dennoch eine Transformation der Impedanz. Die Antenne muss einen vier mal höhere Impedanz als das Koaxialkabel aufweisen, damit Anpassung vorliegt. Ursache hierfür, ist dass jeder Anschlusspunkt der Antenne gegenüber Erde nur den halben Widerstand aufweist, beide Anschlusspunkte jedoch parallel, d.h. beide am Innenleiter, angeschlossen werden.
 
 ---
 

@@ -24,7 +24,7 @@ Bei Remote-Betrieb kommt es durch Laufzeiten im Netzwerk und Verarbeitungszeiten
 [question:AF709]
 [question:AF710]
 
-Um sicherzustellen, dass eine Remote-Station bei Abbruch oder Störung der Datenverbindung zwischen Benutzer/Bedienteil und Remoteinterface nicht in einen unkontrollierten Zustand/Betrieb fällt, ist eine permanente Überwachung und Rückmeldung zwischen Operator und Remote-Station mittels eines sog. Watchdogs erforderlich. Hierbei werden z.B. in zeitlichen Abständen von wenigen Sekunden Datenpakete von der Remotestation an den Computer des Operators gesender, die in einer bestimmten Zeit quittiert werden müssen durch Rückantwort. Erfolgt diese Rückantwort nicht, so weiß die Remote-Station, dass die Verbindung zum Operator unterbrochen ist und kann den Transceiver selbsttätig in einen definierten sicheren Zustand (z.B. Empfangsmodus) bringen und eine laufende Sendung unterbrechen.
+Um sicherzustellen, dass eine Remote-Station bei Abbruch oder Störung der Datenverbindung zwischen Benutzer/Bedienteil und Remoteinterface nicht in einen unkontrollierten Zustand/Betrieb fällt, ist eine permanente Überwachung und Rückmeldung zwischen Operator und Remote-Station mittels eines sog. Watchdogs erforderlich. Hierbei werden z.B. in zeitlichen Abständen von wenigen Sekunden Datenpakete von der Remotestation an den Computer des Operators gesendet, die in einer bestimmten Zeit quittiert werden müssen durch Rückantwort. Erfolgt diese Rückantwort nicht, so weiß die Remote-Station, dass die Verbindung zum Operator unterbrochen ist und kann den Transceiver selbsttätig in einen definierten sicheren Zustand (z.B. Empfangsmodus) bringen und eine laufende Sendung unterbrechen.
 
 [question:AF708]
 

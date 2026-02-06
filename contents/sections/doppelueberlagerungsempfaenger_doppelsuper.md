@@ -23,7 +23,7 @@ Der Doppelsuper setzt sich aus folgenden Funktionsblöcken zusammen:
 1. HF-Teil mit Vorselektion
 2. Erster Mischer mit VFO zur Bildung der ersten ZF. Hierbei kann die Frequenz des VFO sowohl oberhalb als auch unterhalb der gewünschten Empfangsfrequenz liegen (jeweils um die 1. ZF versetzt)
 3. Erster ZF-Verstärker mit Filter (Roofing-Filter)
-4. Zweiter Mischer mit CO (Quarzoszillator) zur Bildung der zweiten ZF. Hierbau kann die Frequenz des CO sowohl oberhalb als auch unterhalb der 1. ZF liegen (jeweils um die 2. ZF versetzt)
+4. Zweiter Mischer mit CO (Quarzoszillator) zur Bildung der zweiten ZF. Hierbei kann die Frequenz des CO sowohl oberhalb als auch unterhalb der 1. ZF liegen (jeweils um die 2. ZF versetzt)
 5. Zweiter ZF-Verstärker mit Filter (ZF-Filter je nach Modulationsart/Betriebsart, meist schaltbar).
 6. Produktdetektor oder Demodulator (je nach Betriebsart) ggf. mit BFO. Diese Stufe dient auch der Erzeugung einer Regelspannung für die Steuerung der Eingangsempfindlichkeit des Empfangszweigs (AGC)
 7. NF-Verstärker mit Lautsprecher-Ausgang oder Kopfhörer-Anschluss

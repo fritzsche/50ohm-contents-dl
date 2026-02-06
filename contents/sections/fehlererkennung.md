@@ -8,7 +8,7 @@ Wir zählen 5 Einsen, also eine ungerade Anzahl. Das Prüfbit muss demnach auf 1
 
 [picture:678:even_parity:Das Byte mit Even Parity Bit]
 
-Wenn nun ein Übertragungsfehler *ein* Bit verändert (von 1 zu 0 oder umgekehrt), dann wird die Anzahl der Einsen ungerade. Der Empfänger erkannt daran, dass ein Fehler vorliegt.
+Wenn nun ein Übertragungsfehler *ein* Bit verändert (von 1 zu 0 oder umgekehrt), dann wird die Anzahl der Einsen ungerade. Der Empfänger erkennt daran, dass ein Fehler vorliegt.
 
 Ein weiteres Beispiel folgt hier: 
 
