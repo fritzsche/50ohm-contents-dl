@@ -53,6 +53,15 @@ Tabellen werden mit senkrechten Strichen "gemalt". Der senkrechte Strich ist auf
 * Nur im Web, nicht im LaTeX: `<webonly>...</webonly>`
 * Nur im LaTeX, nicht im Web: `<latexonly>...</latexonly>`
 
+> [!WARNING]
+> Die Tags funktionieren nur, wenn das öffnende und schließende Tag jeweils für sich auf einer Zeile stehen:
+>
+> ```
+> <attention>
+> Bitte aufpassen!
+> </attention>
+> ```
+
 ## Aufzählungen
 
 Eine Aufzählung kann mit * eingeleitet werden. Nach dem letzten Punkt _muss_ eine Leerzeile folgen.
