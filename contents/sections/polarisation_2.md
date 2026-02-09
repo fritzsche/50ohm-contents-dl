@@ -32,7 +32,7 @@ Der hier vorkommende Poynting-Vektor ist ein Vektor, der sowohl auf der elektris
 [picture:886:e_funkhorizont:Horizontale Polarisation]
 </margin>
 
-Die elektrische Feldkomponente ist parallel zum Erdboden, also handelt es sich um eine horizontale Polarisation. Nebenbei: der Richtungspfeil "S" zeigt in Ausbreitungsrichtung, es handelt sich um den Poyinting-Vektor.
+Die elektrische Feldkomponente ist parallel zum Erdboden, also handelt es sich um eine horizontale Polarisation. Nebenbei: der Richtungspfeil "S" zeigt in Ausbreitungsrichtung, es handelt sich um den Poynting-Vektor.
 
 ---
 
