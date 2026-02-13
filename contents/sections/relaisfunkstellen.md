@@ -21,24 +21,24 @@ Eine Relaisfunkstelle empfängt auf ihrer Eingabefrequenz das Signal einer Amate
 
 <margin>
 | r: Band | X: Ablage |
-| 10 m | 100 kHz |
-| 2 m | 600 kHz |
-| 70 cm | 7,6 MHz |
-| 23 cm | 28 MHz |
+| $\qty{10}{\meter}$ | $\qty{100}{\kilo\hertz}$ |
+| $\qty{2}{\meter}$ | $\qty{600}{\kilo\hertz}$ |
+| $\qty{70}{\centi\meter}$ | $\qty{7,6}{\mega\hertz}$ |
+| $\qty{23}{\centi\meter}$ | $\qty{28}{\mega\hertz}$ |
 [table:n_relaisfunkstellen_ablage:Frequenzablage]
 </margin>
 
-Beispielsweise wird die Frequenz eines 70 cm Relais so angegeben:
-* Ausgabefrequenz: 438,875 MHz
-* Ablage: -7,600 MHz
-* Eingabefrequenz: 431,275 MHz
+Beispielsweise wird die Frequenz eines $\qty{70}{\centi\meter}$ Relais so angegeben:
+* Ausgabefrequenz: $\qty{438,875}{\mega\hertz}$
+* Ablage: $\qty{-7,600}{\mega\hertz}$
+* Eingabefrequenz: $\qty{431,275}{\mega\hertz}$
 
 [question:BE401]
 [question:BE402]
 [question:BE403]
 
 <indepth>
-Einige Relaisfunkstationen arbeiten auch im sogenannten *Crossband-Betrieb*. Das bedeutet: Eine Station sendet und empfängt auf einem Band (z. B. 70 cm), eine andere Station auf dem gleichen Relais, aber auf einem anderen Band (z. B. 2 m). Die Relaissteuerung vermittelt die Gespräche auf die beiden Bänder. Es kann auch eine Umsetzung der Sendeart erfolgen, beispielsweise von SSB auf FM. 
+Einige Relaisfunkstationen arbeiten auch im sogenannten *Crossband-Betrieb*. Das bedeutet: Eine Station sendet und empfängt auf einem Band (z. B. $\qty{70}{\centi\meter}$), eine andere Station auf dem gleichen Relais, aber auf einem anderen Band (z. B. $\qty{2}{\meter}$). Die Relaissteuerung vermittelt die Gespräche auf die beiden Bänder. Es kann auch eine Umsetzung der Sendeart erfolgen, beispielsweise von SSB auf FM.
 </indepth>
 
 Eine Relaisstation, die nicht Sprache sondern Daten übermittelt, wird Digipeater genannt. Ein Digipeater ist in der Lage, Datenpakete zu empfangen und wieder auszusenden. Hierbei ist die Besonderheit, dass die Aussendung nur in Teilen oder zeitversetzt geschehen kann. Ebenso können Datenpakete wiederholt oder einzelne Datenfelder geändert werden.
@@ -56,7 +56,7 @@ Informationen zu Relaisfunkstellen sowie den technischen Parametern und Besonder
 [question:NE309]
 [question:NE308]
 
-Eine wichtige Einstellung ist die Kanalbandbreite bei FM-Betrieb. Wir erinnern uns: Die Bandbreite gibt an, wieviel "Platz" man im Frequenzspektrum mit der Aussendung belegt. Hier gibt es einerseits das Wide-FM, die Bandbreite beträgt hier 25 kHz und wird am Display beispielsweise als *FM-W* angezeigt. Andererseits gibt es das Schmalband-FM (Narrow-FM), welches eine Bandbreite von nur 12,5 kHz belegt und z. B. am Funkgerät als *FM-N* dargestellt wird. Viele Repeater mögen es gar nicht, wenn die Signale zu breit sind. Denn dadurch können verzerrte Signale entstehen und benachbarte Relaisfrequenzen gestört werden.
+Eine wichtige Einstellung ist die Kanalbandbreite bei FM-Betrieb. Wir erinnern uns: Die Bandbreite gibt an, wieviel "Platz" man im Frequenzspektrum mit der Aussendung belegt. Hier gibt es einerseits das Wide-FM, die Bandbreite beträgt hier $\qty{25}{\kilo\hertz}$ und wird am Display beispielsweise als *FM-W* angezeigt. Andererseits gibt es das Schmalband-FM (Narrow-FM), welches eine Bandbreite von nur $\qty{12,5}{\kilo\hertz}$ belegt und z. B. am Funkgerät als *FM-N* dargestellt wird. Viele Repeater mögen es gar nicht, wenn die Signale zu breit sind. Denn dadurch können verzerrte Signale entstehen und benachbarte Relaisfrequenzen gestört werden.
 
 [question:BE407]
 

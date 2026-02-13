@@ -1,5 +1,5 @@
 <left>
-[photo:124:n_satellit_oscar1:Modell des ersten Amateurfunksatelliten OSCAR 1, der 1961 für 22 Tage aus dem Orbit der Erde eine Bake im 2 m-Band sendete und von 570 Funkamateuren aus 28 Ländern gehört wurde]
+[photo:124:n_satellit_oscar1:Modell des ersten Amateurfunksatelliten OSCAR 1, der 1961 für 22 Tage aus dem Orbit der Erde eine Bake im $\qty{2}{\meter}-Band$ sendete und von 570 Funkamateuren aus 28 Ländern gehört wurde]
 </left>
 <right>
 * Umrunden die Erde in kreis- oder elliptischen Bahnen und in unterschiedlichen Höhen
@@ -24,7 +24,7 @@ Relaisfunkstelle auf dem Satellit wird "Transponder" genannt
 * Baugröße von Filtern wird reduziert
 
 <note>
-* z.B. Downlink auf 2m und Uplink auf 70cm
+* z.B. Downlink auf $\qty{2}{\meter}$ und Uplink auf $\qty{70}{\centi\meter}$
 </note>
 
 ---
@@ -44,7 +44,7 @@ Azimut
 * stammt von arabisch السموت (as-sumūt, "die Wege")
 * Richtung entlang des Horizonts
 * Wird wie beim Kompass in Grad gemessen
-* 0°/360° Norden – 90° Osten – 180° Süden – 270° Westen
+* $\qty{0}{\degree}$/$\qty{360}{\degree}$ Norden – $\qty{90}{\degree}$ Osten – $\qty{180}{\degree}$ Süden – $\qty{270}{\degree}$ Westen
 </left>
 <right>
 [picture:876:n_azimut_elevation:Azimut und Elevation im Raum]
@@ -58,8 +58,8 @@ Satellitenantennen müssen ausgerichtet sein
 Elevation
 * leitet sich von lateinisch elevare ("erheben") ab
 * Vertikaler Winkel über dem Horizont
-* 0° &rarr; direkt am Horizont
-* 90° &rarr; senkrecht über einem
+* $\qty{0}{\degree}$ &rarr; direkt am Horizont
+* $\qty{90}{\degree}$ &rarr; senkrecht über einem
 </left>
 <right>
 [picture:876:n_azimut_elevation:Azimut und Elevation im Raum]

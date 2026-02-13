@@ -1,5 +1,5 @@
 <margin>
-[photo:124:n_satellit_oscar1:Modell des ersten Amateurfunksatelliten OSCAR 1, der 1961 für 22 Tage aus dem Orbit der Erde eine Bake im 2 m-Band sendete und von 570 Funkamateuren aus 28 Ländern gehört wurde]
+[photo:124:n_satellit_oscar1:Modell des ersten Amateurfunksatelliten OSCAR 1, der 1961 für 22 Tage aus dem Orbit der Erde eine Bake im $\qty{2}{\meter}$-Band sendete und von 570 Funkamateuren aus 28 Ländern gehört wurde]
 </margin>
 
 ---
@@ -37,8 +37,8 @@ Satelliten, die in Polumlaufbahnen operieren, fliegen über die Pole der Erde hi
 ---
 
 Bei der Nutzung von Satellitenkommunikation ist die Ausrichtung von Antennen von zentraler Bedeutung. Die Begriffe *Azimut* und *Elevation* spielen dabei eine Schlüsselrolle. Sie beschreiben die horizontale Ausrichtung und den vertikalen Winkel, unter denen ein Satellit von der Erdoberfläche aus wahrgenommen wird.:
-* Der Azimut ist die Richtung entlang des Horizonts, in die man schaut, um den Satelliten zu sehen. Er wird meist in Grad gemessen und reicht von 0° (Norden) über 90° (Osten), 180° (Süden) bis 270° (Westen).
-* Die Elevation ist der vertikale Winkel, unter dem ein Satellit von der Position aus über dem Horizont steht. Sie wird ebenfalls in Grad gemessen und variiert von 0° (direkt am Horizont) bis 90° (senkrecht über einem).
+* Der Azimut ist die Richtung entlang des Horizonts, in die man schaut, um den Satelliten zu sehen. Er wird meist in Grad gemessen und reicht von $\qty{0}{\degree}$ (Norden) über $\qty{90}{\degree}$ (Osten), $\qty{180}{\degree}$ (Süden) bis $\qty{270}{\degree}$ (Westen).
+* Die Elevation ist der vertikale Winkel, unter dem ein Satellit von der Position aus über dem Horizont steht. Sie wird ebenfalls in Grad gemessen und variiert von $\qty{0}{\degree}$ (direkt am Horizont) bis $\qty{90}{\degree}$ (senkrecht über einem).
 
 <margin>
 [picture:876:n_azimut_elevation:Azimut und Elevation im Raum]

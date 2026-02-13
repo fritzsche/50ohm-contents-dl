@@ -38,11 +38,11 @@
 </left>
 <right>
 | l: Band | X: Frequenzbereich |
-| 10 m | 28190 bis 28225 kHz |
-| 12 m | 24929 bis 24931 kHz |
-| 15 m | 21149 bis 21151 kHz |
-| 17 m | 18109 bis 18111 kHz |
-| 20 m | 14099 bis 14101 kHz |
+| $\qty{10}{\meter}$ | $\qtyrange{28190}{28225}{\kilo\hertz}$ |
+| $\qty{12}{\meter}$ | $\qtyrange{24929}{24931}{\kilo\hertz}$ |
+| $\qty{15}{\meter}$ | $\qtyrange{21149}{21151}{\kilo\hertz}$ |
+| $\qty{17}{\meter}$ | $\qtyrange{18109}{18111}{\kilo\hertz}$ |
+| $\qty{20}{\meter}$ | $\qtyrange{14099}{14101}{\kilo\hertz}$ |
 [table:n_baken_frequenzbereiche:Frequenzbereiche für Baken gemäß IARU-Bandplan]
   
 <fragment>

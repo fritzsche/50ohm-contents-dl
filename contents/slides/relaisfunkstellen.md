@@ -43,19 +43,19 @@ eine fernbediente Amateurfunkstelle (auch in Satelliten), die empfangene Amateur
 Den Abstand nennt man *Frequenzablage* oder kurz *Ablage*
 
 | r: Band | r: Ablage |
-| 10 m | 100 kHz |
-| 2 m | 600 kHz |
-| 70 cm | 7.6 MHz |
-| 23 cm | 28 MHz |
+| $\qty{10}{\meter}$ | $\qty{100}{\kilo\hertz}$ |
+| $\qty{2}{\meter}$ | $\qty{600}{\kilo\hertz}$ |
+| $\qty{70}{\centi\meter}$ | $\qty{7,6}{\mega\hertz}$ |
+| $\qty{23}{\centi\meter}$ | $\qty{28}{\mega\hertz}$ |
 [table:n_relaisfunkstellen_ablage:Frequenzablage]
 </fragment>
 </right>
 
 ---
-Beispiel eines 70cm-Relais:
-* Ausgabefrequenz: 438.875 MHz
-* Ablage: -7.600 MHz
-* Eingabefrequenz: 431.275 MHz
+Beispiel eines $\qty{70}{\centi\meter}$-Relais:
+* Ausgabefrequenz: $\qty{438,875}{\mega\hertz}$
+* Ablage: $\qty{-7,600}{\mega\hertz}$
+* Eingabefrequenz: $\qty{431,275}{\mega\hertz}$
 
 ---
 [question:BE401]
@@ -66,7 +66,7 @@ Beispiel eines 70cm-Relais:
 
 --- indepth
 ## Crossband-Betrieb
-* Sendet und empfängt gleichzeitig auf zwei verschiedenen Bändern, z.B. 2m und 70cm
+* Sendet und empfängt gleichzeitig auf zwei verschiedenen Bändern, z.B. $\qty{2}{\meter}$ und $\qty{70}{\centi\meter}$
 * Umsetzung der Sendeart auch möglich, z.B. SSB auf FM
 
 ---
@@ -98,8 +98,8 @@ Ein Beispiel für weitere Einstellungen ist ein Subton mit CTCSS
 ---
 ## Kanalbandbreite
 * Der benötigte Platz im Frequenzspektrum
-* Wide-FM: 25 kHz
-* Narrow-FM: 12,5 kHz
+* Wide-FM: $\qty{25}{\kilo\hertz}$
+* Narrow-FM: $\qty{12,5}{\kilo\hertz}$
 * Repeater mögen Narrow-FM, da sonst Signale verzerrt sind und benachbarte Frequenzen gestört werden
 
 ---
@@ -135,7 +135,7 @@ Ein Beispiel für weitere Einstellungen ist ein Subton mit CTCSS
 ---
 ## Sendeleistung
 * Nach Anlage 1 der AFuV
-* Für automatische Station oberhalb von 30 MHz mit 50 W ERP
+* Für automatische Station oberhalb von $\qty{30}{\mega\hertz}$ mit $\qty{50}{\watt}$ ERP
 
 ---
 [question:VD503]
