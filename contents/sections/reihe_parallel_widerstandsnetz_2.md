@@ -96,10 +96,3 @@ AD 114: 1,8 V
 |Kontrollüberlegung, ob das Ergenis stimmen kann |
 [table:a_Widerstandsnetzwerke 2:Zusammenfassung]
 </margin>
-
-<summary>
-*Zusammenfassung*:
-Aufgabe in Teilbereiche zerlegen  
-Teilbereiche berechnen
-Kontrollüberlegung, ob das Ergenis stimmen kann
-</summary>
