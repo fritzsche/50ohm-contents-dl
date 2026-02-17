@@ -10,7 +10,7 @@
 ## Maidenhead-Locator
 
 * Erdoberfläche wird in $\num{18662400}$ Kästchen eingeteilt
-* Ein Kästchen entspricht in Deutschland grob einer Genauigkeit von $\qty{5}{\kilo\meter}$ x $\qty{5}{\kilo\meter}$
+* Ein Kästchen entspricht in Deutschland grob einer Genauigkeit von $\qty{5}{\kilo\meter}\times\qty{5}{\kilo\meter}$
 * Diese Kästchen werden Subsquares genannt
 * Übergeordnet sind Squares und Fields
 
